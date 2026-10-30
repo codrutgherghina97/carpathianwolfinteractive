@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 104" role="img" aria-label="Carpathian Wolf Interactive">
+  <defs>
+    <linearGradient id="fur" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#ffe4a3"/>
+      <stop offset=".45" stop-color="#f2a93b"/>
+      <stop offset="1" stop-color="#c26f10"/>
+    </linearGradient>
+  </defs>
+  <!-- head -->
+  <path fill="url(#fur)" d="M18 3 L37 27 L50 21 L63 27 L82 3 L88 40 L97 53 L85 55 L92 70 L77 67 L79 83 L64 78 L57 95 L50 100 L43 95 L36 78 L21 83 L23 67 L8 70 L15 55 L3 53 L12 40 Z"/>
+  <!-- inner ears -->
+  <path fill="#06090f" opacity=".55" d="M21 14 L33 30 L25 34 Z M79 14 L67 30 L75 34 Z"/>
+  <!-- brow + bridge -->
+  <path fill="#06090f" d="M50 25 L56 44 L54 78 L50 84 L46 78 L44 44 Z"/>
+  <!-- eyes -->
+  <path fill="#06090f" d="M20 45 L42 50 L40 58 L24 54 Z M80 45 L58 50 L60 58 L76 54 Z"/>
+  <path fill="#fff4cf" d="M26 49.5 L40 52.5 L38.6 56 L28 53.5 Z M74 49.5 L60 52.5 L61.4 56 L72 53.5 Z"/>
+  <!-- nose -->
+  <path fill="#06090f" d="M43 89 L57 89 L50 98 Z"/>
+  <!-- cheek fur cuts -->
+  <path fill="#06090f" opacity=".5" d="M22 62 L36 68 L30 72 Z M78 62 L64 68 L70 72 Z"/>
+</svg>
